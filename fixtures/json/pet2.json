@@ -1,0 +1,18 @@
+{
+    "id": 3457890,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Duna",
+    "photoUrls": [
+      ""
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vacinado"
+      }
+    ],
+    "status": "sold"
+  }
